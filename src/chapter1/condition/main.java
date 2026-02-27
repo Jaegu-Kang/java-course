@@ -35,5 +35,8 @@ public class main {
             default:
                 System.out.println("둘다 아닙니다.");
         }
+
+
+
     }
 }
